@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baka0910.github.io/billiards-blog/sitemap.xml
